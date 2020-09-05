@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1>Simple diary book</h1>
+    <h2>Select date</h2>
 <?php
 //Get current year and month
 $thisYear=date('Y');
