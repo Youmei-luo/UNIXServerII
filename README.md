@@ -6,4 +6,7 @@ Exercise for UNIX server 2
     regist_form.html  
     registfile.php  
   - Login form  
-    login.php
+    login.php  
+* Simple diary book  
+  - mycalendar.php  
+  - mydiary.php  
