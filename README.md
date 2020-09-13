@@ -15,6 +15,7 @@ Exercise for UNIX server 2
   - title_bbs.php  
   - delete.php  
   - delete_confirm.php  
+  - delete_submit.php  
   
   
   
