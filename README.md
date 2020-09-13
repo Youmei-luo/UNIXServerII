@@ -13,5 +13,7 @@ Exercise for UNIX server 2
 * Electronic conference system  
   - bbs_top.php  
   - title_bbs.php  
+  - delete.php  
+  
   
   
